@@ -48,7 +48,7 @@ Además realizaremos pruebas con informes R Markdown.
 Esta secuencia será nuestra preferida.
 ***
 
-![GitHub](https://miro.medium.com/max/4000/1*J8O2xd9ZqxWr2x6EP4MHmg.png)
+![GitHub](https://miro.medium.com/max/4000/1*J8O2xd9ZqxWr2x6EP4MHmg.png 250x)
 ---
 ## 1. Hagamos un repositorio en GitHub
 
